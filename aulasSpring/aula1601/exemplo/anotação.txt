@@ -1,0 +1,1 @@
+@CrossOrigin("*") => funcionar em qualquer bagulho
